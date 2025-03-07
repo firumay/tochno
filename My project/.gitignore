@@ -1,0 +1,52 @@
+# Unity generated
+Library/
+Temp/
+Obj/
+Build/
+Builds/
+Logs/
+UserSettings/
+
+# Never ignore Asset meta files
+!*.meta
+
+# Ignore Unity's generated files
+*.pidb
+*.pdb
+*.mdb
+*.sln
+*.csproj
+*.unityproj
+*.svd
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb.meta
+*.mdb.meta
+*.pdb.meta
+
+# Ignore OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+Icon?
+ehthumbs.db
+Thumbs.db
+
+# Ignore build artifacts
+*.apk
+*.aab
+*.app
+*.exe
+
+# Ignore packages
+Packages/
+*.unitypackage
+*.tgz
+
+# Ignore crash reports
+sysinfo.txt
+*.crash
